@@ -1,9 +1,9 @@
 # Exploratory_data_analysis
-##Exploratory data analysis on human body temperature data
+Exploratory data analysis on human body temperature data
 
 In this exercise, you will analyze a dataset of human body temperatures and employ the concepts of hypothesis testing, confidence intervals, and statistical significance.
 
-###Answer the following questions in this notebook below and submit to your Github account.
+Answer the following questions in this notebook below and submit to your Github account.
 
 Is the distribution of body temperatures normal?
 
